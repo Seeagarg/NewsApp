@@ -25,6 +25,11 @@ function NewsCard(props) {
     console.log("liked");
     setLike(!like);
   }
+
+  const handleClick=()=>{
+    window.location.href = props.link
+  }
+
   return (
     <div>
     <Card style={{boxShadow: "5px 10px 18px #888888"}}>
@@ -48,6 +53,8 @@ function NewsCard(props) {
         height="194"
         image={props?.image}
         alt="Paella dish"
+        onClick={handleClick}
+        style={{cursor:'pointer'}}
       />
       <CardContent>
         <Typography variant="body2" style={{color:"black",fontSize:"1.5rem"}}>

@@ -79,7 +79,7 @@ const Main=({category})=> {
             
                 <Row className='Article'>
         <Col sm md style={{marginTop:"3rem"}}>
-        <NewsCard desc = {article?.snippet} title = {article?.title} date = {article?.published_datetime_utc}  icon={article?.source_favicon_url} image={article?.photo_url} />
+        <NewsCard desc = {article?.snippet} title = {article?.title} date = {article?.published_datetime_utc}  icon={article?.source_favicon_url} image={article?.photo_url} link={article?.link} />
         </Col>
         {/* <Col sm md style={{marginTop:"3rem"}}>
         <NewsCard desc = {article?.snippet} title = {article?.title} date = {article?.published_datetime_utc}  icon={article?.source_favicon_url} image={article?.photo_url} />
