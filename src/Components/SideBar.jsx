@@ -167,7 +167,7 @@ const SideBar=({ onCategoryChange })=> {
             <MenuIcon fontSize='large'/>
           </IconButton>
           <Typography className='title' variant="h6" noWrap component="div" style={{fontSize:"2rem",fontWeight:"bold",fontFamily:"Agbalumo"}}>
-            News App
+          News Stack
           </Typography>
         </Toolbar>
       </AppBar>
