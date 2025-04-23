@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "attributes": {
+        "headline": "India Won World Cup 2023 against Pak by 6 wicket ",
+        "imageUrl": null,
+        "hashtags": "Cricket, World Cup, 2024",
+        "category": "SPORTS",
+        "createdAt": "2023-10-27T22:01:45.104Z",
+        "updatedAt": "2023-10-27T22:01:50.407Z",
+        "publishedAt": "2023-10-27T22:01:50.272Z",
+        "NewsUpdated": "2023-10-26T21:15:00.000Z",
+        "newsIcon": "https://static.vecteezy.com/system/resources/previews/019/167/034/original/cricket-bat-with-wicket-free-png.png",
+        "newsSource": "Google",
+        "newsUid": "news-data"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "headline": "Modi wins 2024 Election by 20% Majority",
+        "imageUrl": null,
+        "hashtags": "Voting, India, BJP",
+        "category": "POLITICS",
+        "createdAt": "2023-10-27T22:03:19.373Z",
+        "updatedAt": "2023-10-27T22:04:51.764Z",
+        "publishedAt": "2023-10-27T22:04:51.631Z",
+        "NewsUpdated": "2023-10-26T22:30:00.000Z",
+        "newsIcon": "https://cdn-icons-png.flaticon.com/512/1651/1651652.png",
+        "newsSource": "ECI",
+        "newsUid": "news-data2"
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "headline": "China Has highest Population counted 1333 billion",
+        "imageUrl": null,
+        "hashtags": "China, population",
+        "category": "WORLD",
+        "createdAt": "2023-10-27T22:04:37.438Z",
+        "updatedAt": "2023-10-27T22:05:10.897Z",
+        "publishedAt": "2023-10-27T22:05:10.767Z",
+        "NewsUpdated": "2023-10-25T19:30:00.000Z",
+        "newsIcon": "https://static.vecteezy.com/system/resources/previews/009/394/201/non_2x/plane-flying-around-the-world-clipart-design-illustration-free-png.png",
+        "newsSource": "China",
+        "newsUid": "news-data-1"
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "headline": "ChatGPT Wins the World and be Owner of all propety",
+        "imageUrl": null,
+        "hashtags": "ChatGPT, AI",
+        "category": "TECHNOLOGY",
+        "createdAt": "2023-10-27T22:06:27.007Z",
+        "updatedAt": "2023-10-27T22:06:32.886Z",
+        "publishedAt": "2023-10-27T22:06:32.747Z",
+        "NewsUpdated": "2023-10-16T19:30:00.000Z",
+        "newsIcon": "https://freelogopng.com/images/all_img/1681038887chatgpt-logo%20black-and-white.png",
+        "newsSource": "Open AI",
+        "newsUid": "news-data-2"
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "headline": "COVID 19 is nowhere in world, Now Extincted",
+        "imageUrl": null,
+        "hashtags": "Covid, Virus",
+        "category": "HEALTH",
+        "createdAt": "2023-10-27T22:11:29.835Z",
+        "updatedAt": "2023-10-27T22:11:34.484Z",
+        "publishedAt": "2023-10-27T22:11:34.359Z",
+        "NewsUpdated": "2023-10-23T19:15:00.000Z",
+        "newsIcon": "https://png.pngtree.com/png-clipart/20230110/ourmid/pngtree-3d-icon-of-hospital-heart-health-care-and-medical-concept-png-image_6557799.png",
+        "newsSource": "Google",
+        "newsUid": "news-data-3"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": { "page": 1, "pageSize": 25, "pageCount": 1, "total": 5 }
+  }
+}

@@ -1,0 +1,17 @@
+.Article{
+    margin-top:8rem;
+    width:60%;
+    margin:0 auto;
+}
+
+.title{
+    font-family: 'Agbalumo';
+}
+
+@media screen and (max-width:768px){
+   .Article{
+        margin-top:8rem;
+        width:100%;
+        margin:0 auto
+    } 
+}
